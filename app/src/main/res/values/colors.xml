@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="book_button_background_orange">#ff5200</color>
+    <color name="text_color_black">#000000</color>
+    <color name="text_color_black_color_red">#FF0000</color>
+    <color name="text_color_black_color_green">#3e8718</color>
+    <color name="text_color_black_color_light_orange">#ffa321</color>
+    <color name="text_color_black_color_dark_green">#199e1d</color>
+    <color name="text_color_black_color_light_green">#1dc423</color>
+
+</resources>
